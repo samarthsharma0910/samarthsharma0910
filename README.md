@@ -1,5 +1,8 @@
 # Hi, I'm Samarth Sharma 👋
-
+<p align="left">
+  <img src="./contributor-badge.png" width="160" />
+  <img src="./opensource-track-badge.png" width="160" />
+</p>
 ![GSSoC 2026](https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge)
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-green?style=for-the-badge)
@@ -40,9 +43,9 @@
 ### Soft Skills
 UI/UX
 
-# 🏆 Achievements
-🔷 GSSoC 2026 Contributor (Open Source Track)
-🔷 @1x Hackathon Runner Up [Build & Beyond] Hosted By Tech Nexus @KRMU 
+## 🏆 Achievements
+- 🚀 GSSoC 2026 Contributor (Open Source Track)
+- 🥈 Hackathon Runner-Up — Build & Beyond @ Tech Nexus, KRMU
 
 ## Connect with me
-LinkedIn: www.linkedin.com/in/samarth-sharma-03567936a
+🔗 LinkedIn: [Samarth Sharma](https://www.linkedin.com/in/samarth-sharma-03567936a)
